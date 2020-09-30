@@ -155,6 +155,9 @@ a{
     padding: 8px 10px;
     margin: auto;
 }
+a:hover{
+    transform: scale(1.1);
+}
 nav{
     display: flex;
     margin: 25px;
